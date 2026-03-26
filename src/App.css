@@ -3,13 +3,13 @@
 
 
 body {
-  background-color: silver;
-  color: white;
+  background-color: #547953;
+  color: black;
   font-family: "Roboto Mono", monospace;
 }
  
 .app-title {
-  color: white;
+  color: black;
   margin-top: 2rem;
 }
 
